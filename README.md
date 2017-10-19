@@ -1,2 +1,3 @@
 # hello-world
-as recommended, a small project for testing
+this is the way, improve yourself
+
